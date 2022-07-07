@@ -1,3 +1,12 @@
+<h1>Projeto de um temporizador de tarefas feito em React.js</h1>
+
+<ul>
+  <li><i>Alura</i></li>
+  <li><i>React</i></li>
+  <li><i>Front-end</i></li>
+  <li><i>Javascript</i></li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
